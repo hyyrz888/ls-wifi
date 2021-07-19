@@ -1,0 +1,16 @@
+{
+	"name": "@ls/wifi",
+	"version": "0.0.14",
+	"description": "乐智健康wifi配网SDK",
+	"main": "./src/index.js",
+	"scripts": {
+		"unpub": "npm unpublish --registry=https://npm.leshiguang.net --force",
+		"pub": "npm publish --registry=https://npm.leshiguang.net"
+	},
+	"dependencies": {
+		"aes-js": "^3.1.2",
+		"base64-js": "^1.3.0",
+		"browserify-unibabel": "^3.0.0",
+		"md5": "^2.2.1"
+	}
+}
