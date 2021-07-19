@@ -12,5 +12,14 @@
 		"base64-js": "^1.3.0",
 		"browserify-unibabel": "^3.0.0",
 		"md5": "^2.2.1"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/leshiguang/ls-wifi.git"
+	},
+	"keywords": [
+		"@ls/wifi"
+	],
+	"author": "yong.wu",
+	"license": "ISC",
 }
